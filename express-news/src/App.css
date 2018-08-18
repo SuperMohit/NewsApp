@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.app-header{
+  width: 100%;
+  height: 300px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.react-table{
+  width: 100%;
+}
+
+.react-header{
+  min-width: 200px;
+  background-color: lightsteelblue;
+  color: darkorchid;
+  font-size: 33px;
+  font-weight: 200;
+}
+
+.row-odd{
+
+  background-color: lavender;
+
+}
+.row-even{
+  background-color: lightgray;
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
